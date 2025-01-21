@@ -1,6 +1,5 @@
 pp "See ya later!"
 require "active_support/all"
-require "activesupport"
 require "awesome_print"
 require "pry-byebug"
 
